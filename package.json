@@ -1,6 +1,6 @@
 {
   "name": "@zcorky/is-support-passive",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Give a is-support-passive for your app.",
   "main": "lib/index.js",
   "module": "lib/index.js",
@@ -60,10 +60,6 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "dependencies": {
-    "@zcorky/fz": "^1.0.2",
-    "isomorphic-fetch": "^2.2.1"
   },
   "support": [
     "browser"
